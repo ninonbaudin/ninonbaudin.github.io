@@ -1,0 +1,6 @@
+title: "Ton Nom"
+description: "Portfolio d’écriture – journalisme"
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
