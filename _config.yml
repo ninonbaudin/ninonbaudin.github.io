@@ -1,6 +1,6 @@
 title: "Ninon Baudin"
 description: "écrits personnels"
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
