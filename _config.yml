@@ -4,3 +4,6 @@ remote_theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+header_pages:
+  - index.md
+  - about.md
